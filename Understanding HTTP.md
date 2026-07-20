@@ -1,3 +1,4 @@
+## HTTP
 **Goal:** Understand HTTP so well that you can read an API request like a developer and manipulate it like a pentester.
 ### What is HTTP?
 
@@ -12,7 +13,7 @@ User-Agent: Mozilla/5.0
 Content-Type: application/json
 Accept: application/json
 
-{"email":"alice@example.com","password":"Password123!"}
+{"email":"alice@example.com","password":"Password123!"} /
 **Components:**
 
 - **Request Line**: METHOD PATH HTTP-VERSION
